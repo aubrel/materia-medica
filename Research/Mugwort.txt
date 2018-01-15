@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-14T23:36:14-05:00
+
+====== Mugwort ======
+01/14/2018
+
+"[[https://www.ncbi.nlm.nih.gov/pubmed/19361284|Role of the polypeptide backbone and post-translational modifications in cross-reactivity of Art v 1, the major mugwort pollen allergen]]."
+(PubMed)
+
+Mugwort has a long history of use in herbal medicine especially in matters connected to the digestive system, menstrual complaints and the treatment of worms[238]. It is slightly toxic, however, and should never be used by pregnant women, especially in their first trimester, since it can cause a miscarriage[7, 238]. Large, prolonged dosage can damage the nervous system[268]. All parts of the plant are anthelmintic, antiseptic, antispasmodic, carminative, cholagogue, diaphoretic, digestive, emmenagogue, expectorant, nervine, purgative, stimulant, slightly tonic and used in the treatment of women's complaints[4, 7, 13, 21, 147, 165, 178, 201]. The leaves are also said to be appetizer, diuretic, haemostatic and stomachic[176, 218, 222]. They can be used internally or externally[218]. An infusion of the leaves and flowering tops is used in the treatment of nervous and spasmodic affections, sterility, functional bleeding of the uterus, dysmenorrhoea, asthma and diseases of the brain[176, 243]. The leaves have an antibacterial action, inhibiting the growth of Staphylococcus aureus, Bacillus typhi, B. dysenteriae, streptococci, E. coli, B. subtilis, Pseudomonas etc[176]. The leaves are harvested in August and can be dried for later use[4]. The stem is also said to be antirheumatic, antispasmodic, and stomachic[218]. The roots are tonic and antispasmodic[243]. They are said to be one of the best stomachics[4]. They are harvested in the autumn and dried for later use[4]. The leaves, placed inside the shoes, are said to be soothing for sore feet[238]. The compressed dried leaves and stems are used in moxibustion[176, 178, 218, 222, 238]. Another report says that the down from the leaves is used[4].
+([[http://www.pfaf.org/user/Plant.aspx?LatinName=Artemisia+vulgaris|PFAF.org]])

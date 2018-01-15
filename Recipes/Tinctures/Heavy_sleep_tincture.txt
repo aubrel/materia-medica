@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T21:17:11-05:00
+
+====== Heavy sleep tincture ======
+
+This is a description for the recipe.
+
+====== Ingredients ======
+
+* Valerian (2 tablespoons)
+* Chamomile (2 tablespoons)
+* Passionflower (2 tablespoons)
+* Lavender (1 tablespoon)
+* California poppy (2 tablespoons)
+* Hops (1 tablesoon)
+* Kava kava (2 tablespoons)
+
+====== Time ======
+
+Preparation: ~10 minutes
+Cooking time: ~1 hour
+Brewing time: ~2-3 weeks
+
+====== Yield ======
+
+Serves 4 people.
+
+====== Instructions ======
+
+1. Start by mixing all the ingredients together.
+2. Then take the next step. :P

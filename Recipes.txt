@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-14T17:32:33-05:00
+
+====== Recipes ======
+
+This section of Materia Medica is our shared recipe book. The recipes are organized in the following way:
+
+* <product item>
+	* <recipe>
+
+Please maintain this structure when adding new recipes. Thank you for your contributions!
+
+Currently, the Materia Medica recipe book contains recipes for:
+
+* [[+Tinctures]]

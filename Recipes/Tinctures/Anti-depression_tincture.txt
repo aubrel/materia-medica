@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-14T17:33:24-05:00
+
+====== Anti-depression tincture ======
+
+This is a description for the recipe.
+
+====== Ingredients ======
+
+* Nettle (3 tablespoons)
+* Lavender (1 tablespoon)
+* Rhodiola rosea (2 tablespoons)
+* Kava kava (1 tablespoon)
+* Gingko (2 tablespoons)
+* Cayenne pepper (1 teaspoon)
+
+====== Time ======
+
+Preparation: ~10 minutes
+Cooking time: ~1 hour
+Brewing time: ~2-3 weeks
+
+====== Yield ======
+
+Serves 4 people.
+
+====== Instructions ======
+
+1. Start by mixing all the ingredients together.
+2. Then take the next step. :P

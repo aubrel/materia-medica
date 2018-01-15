@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T23:30:04-05:00
+
+====== Energy tincture ======
+
+This is a description for the recipe.
+
+====== Ingredients ======
+
+* Guayusa 
+* Rhodiola rosea
+* Rosemary
+* Ashwaganda
+
+====== Time ======
+
+Preparation: ~10 minutes
+Cooking time: ~1 hour
+Brewing time: ~2-3 weeks
+
+====== Yield ======
+
+Serves 4 people.
+
+====== Instructions ======
+
+1. Start by mixing all the ingredients together.
+2. Then take the next step. :P

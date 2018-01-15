@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T23:30:48-05:00
+
+====== Menstruation tincture ======
+
+This is a description for the recipe.
+
+====== Ingredients ======
+
+* Red raspberry leaf
+* Red clover blossoms
+* Hyssop
+* Willow bark
+* Chamomile
+* Lavender
+* Milk thistle seed
+
+====== Time ======
+
+Preparation: ~10 minutes
+Cooking time: ~1 hour
+Brewing time: ~2-3 weeks
+
+====== Yield ======
+
+Serves 4 people.
+
+====== Instructions ======
+
+1. Start by mixing all the ingredients together.
+2. Then take the next step. :P

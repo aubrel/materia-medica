@@ -16,9 +16,9 @@ This is a description for the "Allergy tincture" recipe.
 
 ====== Time ======
 
-Preparation: ~10 minutes
-Cooking time: ~1 hour
-Brewing time: ~2-3 weeks
+* Preparation: ~10 minutes
+* Cooking time: ~1 hour
+* Brewing time: ~2-3 weeks
 
 ====== Yield ======
 

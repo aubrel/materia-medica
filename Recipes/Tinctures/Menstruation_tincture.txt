@@ -18,9 +18,9 @@ This is a description for the recipe.
 
 ====== Time ======
 
-Preparation: ~10 minutes
-Cooking time: ~1 hour
-Brewing time: ~2-3 weeks
+* Preparation: ~10 minutes
+* Cooking time: ~1 hour
+* Brewing time: ~2-3 weeks
 
 ====== Yield ======
 

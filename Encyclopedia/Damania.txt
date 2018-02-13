@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-14T19:07:14-05:00
+
+====== Damania ======
+
+**LATIN NAME: **Turnera diffusa aphrodisiaca 
+**RANGE: **Southern N. America to Northern S. America.
+
+**PFAF ENTRY (Insecure Connection): **http://www.pfaf.org/user/Plant.aspx?LatinName=Turnera+diffusa+aphrodisiaca
+
+**PARTS USED: **
+
+* The leaves of the damiana plant are used for medicinal purposes. They are usually dried but can be used fresh as well.
+
+**ASPECTS:**
+
+* Anti-aromatase in high concentrations (see below)
+* Anti-depression
+* Aphrodisiac
+* Anti-anxiety
+* Diuretic
+* Antiseptic
+* Anti-inflammatory
+
+
+**NOTES:**
+
+* Although it is still found in the wild in certain areas, most of the damiana used in herbal remedies today comes from Mexican and Latin American herb ranches. ([[https://www.herbal-supplement-resource.com/damiana-herb.html|Source]])
+
+* Although the plant exhibits some estrogenic qualities, overall it may increase the presence of testosterone, due to its inhibition of the enzyme aromatase. ([[https://www.ncbi.nlm.nih.gov/pubmed/18948180/|Source]])
+
+**SOURCES OF INTEREST:**
+
+* [[https://www.ncbi.nlm.nih.gov/pubmed/18948180/|Anti-aromatase activity of the constituents from damiana (Turnera diffusa).]] (PubMed)
+* [[https://www.rainbow.coop/library/anti-aromatase-activity-of-damiana/|Anti-Aromatase Activity of Damiana]] (Rainbow.coop) 
+* [[https://www.herbal-supplement-resource.com/damiana-herb.html|Damiana – A Medicinal Herb]] (herbal-supplement-resource.com)

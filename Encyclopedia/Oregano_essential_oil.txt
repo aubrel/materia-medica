@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-10-28T02:29:29-04:00
+
+====== Oregano ======
+
+	====  Description: ====
+
+Oregano essential oil description goes here.
+
+	==== Medicinal Properties: ====
+
+List of major medicinal properties goes here.
+
+	**PFAF Entry:**
+	
+
+PFAF entry link goes here.
+ 
+
+
+	=====  References: =====
+
+* [[https://www.researchgate.net/publication/233898309_Effect_of_Oregano_Essential_Oil_on_Biofilms_Formed_By_Staphylococci_and_Escherichia_coli|Effect of Oregano Essential Oil on Biofilms Formed By Staphylococci and Escherichia coli]] - ResearchGate.net, 2010

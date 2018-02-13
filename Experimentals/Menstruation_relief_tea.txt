@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T19:34:35-05:00
+
+====== Menstruation relief tea ======
+
+Created in February as an improvised, "dear gods I need some relief" tea. I found the ingredients that I added to this improvised tea to be a very calming, pain relieving blend.
+
+**Ingredients:**
+
+1 tablespoon catnip
+3 tablespoons chamomile
+2 tablespoons lemon balm
+1 tablespoon red raspberry leaf (although I would have added more, had I had more) 
+1 tablespoon honey
+4 cups boiling water (so as to make tea)
+
+**Procedure:**
+
+For this tea, I added all ingredients to a 4-cup French press and let it steep for a very short amount of time - I find that when lemon balm and chamomile are steeped for too long, they become a bit undrinkable. 
+
+**Notes:**
+
+Catnip, chamomile, lemon balm, and red raspberry leaf are all famously used in remedies for menstrual relief.
+
+Catnip, lemon balm, and chamomile especially all have a calming effect, and are all antispasmodics, which relieves muscle spasms. Since this is what "cramps" are, this is helpful.
+
+Lemon balm, red raspberry leaf, and catnip are all emmenagogues, which means they promote blood flow, especially to the uterus, which can also aid in cramping and bloating. **Side note:** For this reason, emmenagogues are dangerous to take for people who are pregnant, unless they are trying to have an abortion. It might be so that emmenagogues are also used to encourage birth (oxytocic) at the right time, but this is not something I know about yet. (However, see one of the studies on the efficacy of RR leaf used as a birthing aid.)
+
+**Side note:** Thinking through the entire suite of menstrual symptoms, I wonder if ginger, or something less acidic than coffee (like guayusa or guava), which can definitely exacerbate cramping, would help treat fatigue. Mostly, I think this is just an issue of dehydration and iron deficiency. 
+
+Chamomile is a benzodiazepine (benzo for short), which affects the GABA receptors of the brain by sensitizing them to the GABA neurochemical. This is a large part of what produces the sedative and antispasmodic effect (see also: kava kava, which is known mostly for its similar effect on the GABA receptors). 
+
+Additionally, things that effect the GABA receptors also help soothe, calm, and relieve anxiety. I definitely noticed that with this tea; my mood was absolutely elevated post-consumption, especially after a metabolization period of about 30 mins.  
+
+**References:**
+
+[1] [[https://pfaf.org/User/Plant.aspx?LatinName=Nepeta+cataria|Catnip]] - PFAF.org
+[2] [[https://www.pfaf.org/user/Plant.aspx?LatinName=Melissa+officinalis|Lemon balm]] - PFAF.org
+[3] [[https://www.pfaf.org/user/plant.aspx?latinname=Chamaemelum+nobile|Chamomile]] - PFAF.org
+[4] [[https://www.pfaf.org/user/Plant.aspx?LatinName=Rubus+idaeus|Red raspberry leaf]] - PFAF.org
+[[https://www.sciencedirect.com/topics/medicine-and-dentistry/red-raspberry-leaf|Red raspberry leaf as birthing aid]] (oxytocic) - ScienceDirect
+
+
+
+
+

@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T19:36:05-05:00
+
+====== TNF blocker tincture ======
+
+**TNF BLOCKER TINCTURE**
+
+Created this version of a TNF blocker tincture (alcohol-based) in October 2017 on custom request.
+
+Turmeric
+Meadowsweet
+Milk thistle seed
+Marshmallow
+
+
+**RESEARCH NOTES**
+
+Cat's claw was explored as an option to include in this recipe, but in this context, was abandoned for an ongoing controversy around its function as an immunostimulant, which, in the case of ankylosing spondylitis caused by an autoimmune disease, would not be an appropriate ingredient, as it is dangerous to stimulate an immune system which is hostile to itself. However, according to one 2011 study[1], it sounds like the problem is actually induced by chronic usage of TNF blockers, and that cute usage of the blockers should be used both to mitigate pain as well as to treat the resultant pain and inflammation.
+
+So, cat's claw could potentially be used in the future for this, but I was too nervous to include it here.
+
+Meadowsweet, from which aspirin is derived, is of course a painkiller as well as a TNF blocker and an anti-inflammatory. [needs cit]
+Milk thistle seed helps the health of the liver overall, which may also be conducive to treating arthritis. [needs cit]
+Marshmallow can help replenish the tendons from the potential drying effect of the turmeric. [needs cit]
+
+**Resources:**
+
+[1] [[http://www.life-enhancement.com/magazine/article/2428-pain-relief-starts-in-the-brain-blockade-of-tnf-alpha-tumor-necrosis-factor-alpha-inhibits-the-br|Blockade of TNF-alpha (Tumor Necrosis Factor-alpha) Inhibits the Brain’s Response to Pain Before It Reduces Joint Pain]]
+[2] https://www.drugs.com/npp/cat-s-claw.html
+[3] http://buhnerhealinglyme.com/?s=cat%27s+claw
+
+Rhodiola rosea
+

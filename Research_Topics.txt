@@ -2,6 +2,6 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-01-14T23:36:07-05:00
 
-====== Research ======
-Created Sunday 14 January 2018
+====== Research Topics ======
+
 

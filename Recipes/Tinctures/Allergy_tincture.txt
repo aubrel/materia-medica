@@ -8,7 +8,7 @@ This is a description for the "Allergy tincture" recipe.
 
 ====== Ingredients ======
 
-* [[:Plants:Gingko]] (2 tablespoons)
+* :Plants:Gingko (2 tablespoons)
 * Hyssop (2 tablespoons)
 * Reishi (1 tablespoon, boiled)
 * Nettle (3 tablespoons)

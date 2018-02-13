@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-13T14:15:32-05:00
+
+====== Menstruation ======
+
+
+==== Emmenagogues ====
+
+
+
+==== Prostaglandins ====
+
+	**How inhibiting prostaglandins helps with cramps and other symptoms**
+
+
+**Prostaglandins:**
+
+"A prostaglandin is any member of a group of compounds derived from fatty acids containing 20 carbon atoms, including a 5-carbon ring. Prostaglandins have a variety of biochemical and physiological effects, including hormonal effects. Since the types of foods we eat influences the prostaglandins made in the body, foods therefore influence the hormonal status within the body." [1] 
+
+Prostaglandins are responsible for increasing activity in the digestive tract as well as activity in the uterine muscles during menstruation, which is the primary cause of cramping.
+
+"When you are injured, a complicated process of inflammation and blood clotting is triggered. Prostaglandins are a group of lipids that are part of this process. Problems with prostaglandins can limit the healing process, cause increased inflammation and pain, and impact your overall health.
+
+Prostaglandins are hormones created during a chemical reaction at the site where an injury or other issue occurs. They are unique among hormones, because unlike most of the chemical messengers, they are not secreted from a gland. Instead, they are created at the time they are needed directly where the problem exists." [5]
+
+
+**Herbs:**
+
+According to a study by one doctor from 2017 [1], curcumin (as found in [[../../Encyclopedia/Turmeric.txt|turmeric]]; which additionally aids in inflammation, one of the main products of prostaglandins [5]), mangosteen, and pomegranate all inhibit the synthesis of prostaglandins.
+
+"The changes of concentrations of prostaglandins (PG) are cyclic in the uterine tissues and related to steroid ovarian hormones. The role in normal menstruation is presumably related to a local haemodynamic effect. PGF2 alpha vasoconstricts the endometrial vessels during menstruation and contracts the smooth muscle of the myometrium. PGE2 vasodilates the vessels of the endometrium, and PGI2 relaxes smooth muscle, vasodilates the vessels of the myometrium and inhibits thrombocyte aggregation. The pathological conditions dysmenorrhea and menorrhagia relates to symptoms which seem to be exaggerations of normal activities, probably due to increased PG levels. Prostaglandin synthesis inhibitors (PGSI) in women have not been able to prevent ovulation, but animal experiments have shown that the bursting of the follicle demands prostaglandins. In vitro experiments with human tissue have shown that PG is necessary for the occurrence of dissociation of connective tissue around the apex. Luteolysis is due to PG in several species, but it has not been possible to find this direct effect of PG upon luteolysis in women. However, there are indications that the PG functions as a mediator for or is mediated by catecholamines and/or oxytocin." [2]
+
+"Prostagiandins play an important role in the mechanism of human menstruation. Fur­thermore aberrant prostaglandin production may be an intimate component of the pathogenesis of menstrual disorders such as dysmenorrhoea, menorrhagia and perhaps the premenstrual synd­rome. Inhibitors of prostaglandin biosynthesis available today have proven universally useful in the ‘treatment of dysmenorrhoea and menorr­hagia." [3]
+
+According to another article from 1999, [[../../Encyclopedia/Feverfew.txt|feverfew]] and [[../../Encyclopedia/Meadowsweet.txt|meadowsweet]] also inhibit the production of prostaglandins. [4] [[../../Encyclopedia/Black_cohosh.txt|Black cohosh]] and [[../../Encyclopedia/Passionflower.txt|passionflower]] are also on that list of pain-relievers, which are both historically well-known for being used in the treatment of problematic menstruation. [[../../Encyclopedia/Meadowsweet.txt|Meadowsweet]] is also is the famous origin of aspirin.
+
+
+**References**
+
+[1] http://www.raysahelian.com/prostaglandin.html
+[2] https://www.ncbi.nlm.nih.gov/pubmed/3297513
+[3] http://www.jpma.org.pk/full_article_text.php?article_id=6048
+[4] http://cascadewellnessclinic.com/articles/97-99art/art9909.shtml
+[5] https://www.hormone.org/hormones-and-health/hormones/prostaglandins

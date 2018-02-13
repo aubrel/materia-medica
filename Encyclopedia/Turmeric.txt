@@ -3,6 +3,9 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-10-31T22:03:48-04:00
 
 ====== Turmeric ======
-Created Tuesday 31 October 2017
 
-http://www.livingnaturally.com/ns/DisplayMonograph.asp?StoreID=3D9D155236034A5897378F7C5A033221&DocID=basic-interactions-turmeric
+
+**Remedy for:**
+[[../../Research_Topics/Menstruation.txt|Menstruation]]
+
+[1] TNF Blocker, interactions: http://www.livingnaturally.com/ns/DisplayMonograph.asp?StoreID=3D9D155236034A5897378F7C5A033221&DocID=basic-interactions-turmeric

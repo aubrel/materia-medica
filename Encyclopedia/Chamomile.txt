@@ -3,5 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-10-30T22:40:54-04:00
 
 ====== Chamomile ======
-Created Monday 30 October 2017
+
+
+**Remedy for:**
+[[../../Research_Topics/Menstruation.txt|Menstruation]]
 

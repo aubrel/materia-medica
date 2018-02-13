@@ -16,9 +16,9 @@ Marshmallow
 
 **RESEARCH NOTES**
 
-Cat's claw was explored as an option to include in this recipe, but in this context, was abandoned for an ongoing controversy around its function as an immunostimulant, which, in the case of ankylosing spondylitis caused by an autoimmune disease, would not be an appropriate ingredient, as it is dangerous to stimulate an immune system which is hostile to itself. However, according to one 2011 study[1], it sounds like the problem is actually induced by chronic usage of TNF blockers, and that cute usage of the blockers should be used both to mitigate pain as well as to treat the resultant pain and inflammation.
+Cat's claw was explored as an option to include in this recipe, but in this context, was abandoned for an ongoing controversy around its function as an immunostimulant, which, in the case of ankylosing spondylitis caused by an autoimmune disease, would not be an appropriate ingredient, as it is dangerous to stimulate an immune system which is hostile to itself. However, according to one 2011 study [1], it sounds like the problem is actually induced by chronic usage of TNF blockers, and that cute usage of the blockers should be used both to mitigate pain as well as to treat the resultant pain and inflammation.
 
-So, cat's claw could potentially be used in the future for this, but I was too nervous to include it here.
+So, cat's claw could potentially be used in the future for this, but I was too uncertain about this to include it here.
 
 Meadowsweet, from which aspirin is derived, is of course a painkiller as well as a TNF blocker and an anti-inflammatory. [needs cit]
 Milk thistle seed helps the health of the liver overall, which may also be conducive to treating arthritis. [needs cit]

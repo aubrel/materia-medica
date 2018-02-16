@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-15T18:56:15-05:00
+
+====== Pain relief and sedative tea ======
+
+Made this tea on 2/15/2018 as an experimental painkilling and sedative tea to assist a friend in recovery after having her IUD removed. :(
+
+**Ingredients:**
+1 teaspoon of each herb
+
+[[../../Encyclopedia/Mullein.txt|Mullein]]
+[[../../Encyclopedia/Skullcap.txt|Skullcap]]
+[[../../Encyclopedia/Chamomile.txt|Chamomile]]
+[[../../Encyclopedia/Echinacea.txt|Echinacea]]
+[[../../Encyclopedia/California_poppy.txt|California poppy]]
+[[../../Encyclopedia/Passionflower.txt|Passionflower]]
+
+Kratom sample on the side (not part of the tea blend itself)
